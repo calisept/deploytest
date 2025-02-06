@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1738825919668,
+  "timestamp": 1738826461686,
   "index": "/deploytest/index.html",
   "assetGroups": [
     {
@@ -11,9 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
+        "/deploytest/chunk-OK47RRHH.js",
+        "/deploytest/chunk-RKM35JEK.js",
         "/deploytest/favicon.ico",
         "/deploytest/index.html",
-        "/deploytest/main-UQ7UGYWN.js",
+        "/deploytest/main-EA5XALRB.js",
         "/deploytest/manifest.webmanifest",
         "/deploytest/polyfills-FFHMD2TL.js",
         "/deploytest/styles-5INURTSO.css"
@@ -50,9 +52,11 @@
     "/deploytest/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/deploytest/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/deploytest/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/deploytest/chunk-OK47RRHH.js": "af1a7c690debbb55d1794d49690bcddec16d50ad",
+    "/deploytest/chunk-RKM35JEK.js": "4fbdbbfd6fed6b5c9a7a3a4f8eac0f48a7a3273b",
     "/deploytest/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/deploytest/index.html": "76fd353ab58a55d882e3c938feb10f1906c4f3b3",
-    "/deploytest/main-UQ7UGYWN.js": "5015cd1a21922c90d5a134ca1d0b745566b9d37d",
+    "/deploytest/index.html": "fd1aabe3cd2832a849ed1938fd014d50454c18ab",
+    "/deploytest/main-EA5XALRB.js": "fbd65187c034299d393a0489e02957873bcac87d",
     "/deploytest/manifest.webmanifest": "86110d839ecd51073b117a074f8b13a30db5bb7e",
     "/deploytest/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/deploytest/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
