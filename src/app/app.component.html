@@ -1,1 +1,6 @@
-<p>Hello World</p>
+<h1>VERSION 1000</h1>
+
+<div *ngIf="updateAvailable" class="update-notice">
+  <p>A new version is available!</p>
+  <button (click)="reload()">Refresh Now</button>
+</div>
