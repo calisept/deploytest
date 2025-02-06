@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1738825239636,
+  "timestamp": 1738825919668,
   "index": "/deploytest/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/deploytest/favicon.ico",
         "/deploytest/index.html",
-        "/deploytest/main-Q52BWYTD.js",
+        "/deploytest/main-UQ7UGYWN.js",
         "/deploytest/manifest.webmanifest",
         "/deploytest/polyfills-FFHMD2TL.js",
         "/deploytest/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "/deploytest/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/deploytest/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/deploytest/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/deploytest/index.html": "08a7fc1ef5d28ee90acbe3a3b74097c206969344",
-    "/deploytest/main-Q52BWYTD.js": "01debb70bdaaf17bf1e11412fe1517d7bc42343e",
+    "/deploytest/index.html": "76fd353ab58a55d882e3c938feb10f1906c4f3b3",
+    "/deploytest/main-UQ7UGYWN.js": "5015cd1a21922c90d5a134ca1d0b745566b9d37d",
     "/deploytest/manifest.webmanifest": "86110d839ecd51073b117a074f8b13a30db5bb7e",
     "/deploytest/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/deploytest/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
